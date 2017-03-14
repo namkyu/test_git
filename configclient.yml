@@ -1,3 +1,8 @@
+info:
+  description: Spring Cloud Samples
+  url: https://github.com/spring-cloud-samples
+
+---
 spring:
   profiles: default
 configuration:  
@@ -7,3 +12,9 @@ server:
 message:  
   greeting: Hello from the configuration
   greeting1: Hello2
+---
+spring:
+  profiles: default2
+configuration:  
+  projectName: configclient
+---
