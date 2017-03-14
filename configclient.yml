@@ -11,7 +11,7 @@ server:
   port: 8888
 message:  
   greeting: Hello from the configuration
-  greeting1: Hello212121212
+  greeting1: 1111
 ---
 spring:
   profiles: default2
