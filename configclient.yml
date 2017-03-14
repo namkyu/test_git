@@ -4,3 +4,4 @@ server:
   port: 8888
 message:  
   greeting: Hello from the configuration
+  greeting1: Hello2
